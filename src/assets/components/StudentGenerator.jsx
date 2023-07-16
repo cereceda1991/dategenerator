@@ -195,7 +195,7 @@ const generateStudents = () => {
 
   return (
     <div className="main">
-      <h3>Cantidad de estudiantes:</h3>
+      <h3>Ingrese cantidad a generar:</h3>
       <input
         type="number"
         value={numStudents}
