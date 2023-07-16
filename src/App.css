@@ -1,0 +1,16 @@
+.main_container {
+  display: flex;
+  max-width: 1440px;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  gap: 1rem;
+}
+
+.main_container h1{  
+  font-family: inherit;
+  text-transform: uppercase;
+  font-weight: 800;
+}
